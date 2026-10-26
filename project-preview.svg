@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="680" viewBox="0 0 1200 680" role="img" aria-labelledby="title desc">
+  <title id="title">Mental Health Signal — project preview</title>
+  <desc id="desc">Illustrative preview of the student wellness prediction interface with profile, digital habits, and predicted score panels.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#eef2ee"/><stop offset="1" stop-color="#dfe9e0"/></linearGradient>
+    <linearGradient id="pine" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#21594a"/><stop offset="1" stop-color="#163d33"/></linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="150%"><feDropShadow dx="0" dy="12" stdDeviation="14" flood-color="#182420" flood-opacity=".12"/></filter>
+  </defs>
+  <rect width="1200" height="680" rx="28" fill="url(#bg)"/>
+  <circle cx="1090" cy="65" r="130" fill="#e3b341" opacity=".12"/>
+  <circle cx="65" cy="610" r="170" fill="#21594a" opacity=".07"/>
+  <g font-family="Inter, Arial, sans-serif">
+    <text x="72" y="58" font-size="13" font-weight="700" letter-spacing="3" fill="#4c7564">STUDENT WELLNESS ANALYTICS</text>
+    <text x="70" y="116" font-family="Georgia, serif" font-size="48" fill="#182420">Mental Health <tspan font-style="italic" fill="#21594a">Signal</tspan></text>
+    <text x="72" y="150" font-size="16" fill="#4a5850">Explore how daily habits and screen time relate to a predicted score.</text>
+    <rect x="72" y="180" width="1056" height="430" rx="22" fill="#fff" filter="url(#shadow)"/>
+    <rect x="72" y="180" width="1056" height="7" rx="4" fill="#21594a"/>
+    <text x="108" y="225" font-size="12" font-weight="700" letter-spacing="2" fill="#719081">01  /  PROFILE</text>
+    <text x="108" y="254" font-size="19" font-weight="700" fill="#182420">About you</text>
+    <g fill="#f7f9f7" stroke="#d6ded5">
+      <rect x="108" y="273" width="190" height="54" rx="9"/><rect x="316" y="273" width="190" height="54" rx="9"/><rect x="524" y="273" width="190" height="54" rx="9"/>
+    </g>
+    <g fill="#6b7c72" font-size="11"><text x="123" y="292">AGE</text><text x="331" y="292">GENDER</text><text x="539" y="292">COUNTRY</text></g>
+    <g fill="#182420" font-size="14" font-weight="600"><text x="123" y="313">21 years</text><text x="331" y="313">Male</text><text x="539" y="313">India</text></g>
+    <text x="108" y="366" font-size="12" font-weight="700" letter-spacing="2" fill="#719081">02  /  DAILY RHYTHM</text>
+    <text x="108" y="395" font-size="19" font-weight="700" fill="#182420">Academic &amp; digital habits</text>
+    <g fill="#f7f9f7" stroke="#d6ded5">
+      <rect x="108" y="415" width="286" height="55" rx="9"/><rect x="410" y="415" width="286" height="55" rx="9"/>
+      <rect x="108" y="484" width="286" height="55" rx="9"/><rect x="410" y="484" width="286" height="55" rx="9"/>
+    </g>
+    <g fill="#6b7c72" font-size="11">
+      <text x="123" y="435">DAILY SOCIAL MEDIA</text><text x="425" y="435">STUDY HOURS</text>
+      <text x="123" y="504">SLEEP PER NIGHT</text><text x="425" y="504">STRESS LEVEL</text>
+    </g>
+    <g fill="#182420" font-size="15" font-weight="600">
+      <text x="123" y="457">4.5 hours</text><text x="425" y="457">3 hours</text>
+      <text x="123" y="526">7.5 hours</text><text x="425" y="526">Medium</text>
+    </g>
+    <rect x="744" y="220" width="342" height="350" rx="18" fill="url(#pine)"/>
+    <text x="778" y="262" font-size="11" font-weight="700" letter-spacing="2" fill="#c1d9cb">YOUR MODEL OUTPUT</text>
+    <text x="778" y="310" font-family="Georgia, serif" font-size="29" fill="#fff">Predicted score</text>
+    <text x="778" y="385" font-family="Georgia, serif" font-size="76" fill="#fff">7.25</text>
+    <rect x="778" y="410" width="265" height="7" rx="4" fill="#527c69"/>
+    <rect x="778" y="410" width="192" height="7" rx="4" fill="#e3b341"/>
+    <text x="778" y="452" font-size="13" fill="#e1ece5">Illustrative result</text>
+    <path d="M778 480 C805 460 826 496 850 474 S895 460 916 478 S960 499 985 468 S1020 462 1044 475" fill="none" stroke="#9bc4aa" stroke-width="3" stroke-linecap="round"/>
+    <text x="778" y="524" font-size="11" fill="#c1d9cb">Lifestyle &amp; self-reported inputs</text>
+    <text x="108" y="579" font-size="12" fill="#6b7c72">Concept preview • Sample values shown for illustration only</text>
+  </g>
+</svg>
