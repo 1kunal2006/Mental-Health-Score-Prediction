@@ -1,4 +1,25 @@
+<div align="center">
+
 # Mental Health Score Prediction
+
+**Student wellness analytics powered by machine learning**
+
+[![Python](https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+[![FastAPI](https://img.shields.io/badge/API-FastAPI-009688?logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
+[![scikit--learn](https://img.shields.io/badge/ML-scikit--learn-F7931E?logo=scikitlearn&logoColor=white)](https://scikit-learn.org/)
+[![Hosted on Render](https://img.shields.io/badge/Hosted%20on-Render-46E3B7?logo=render&logoColor=111111)](https://render.com/)
+
+[**🚀 Open Live Demo**](https://mental-health-score-prediction-1-nsp6.onrender.com) · [**📓 Explore Notebook**](https://github.com/1kunal2006/Mental-Health-Score-Prediction/blob/main/mental_health_project.ipynb) · [**⚡ API Docs**](https://mental-health-score-prediction-1-nsp6.onrender.com/docs)
+
+</div>
+
+---
+
+## Project Preview
+
+![Mental Health Signal web app preview](project-preview.svg)
+
+<sub>Illustrative README preview with sample values; it is not a captured screenshot of the live application.</sub>
 
 A machine learning project that predicts a student's mental health score from lifestyle, social media usage, academic, and demographic inputs. The project includes a data analysis and model-training notebook, a trained scikit-learn pipeline, and a web application for trying predictions.
 
